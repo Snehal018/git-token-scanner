@@ -63,12 +63,7 @@ Finds all repos with any `ghp_` token in their remote URLs and displays them in 
 
 ```
 
-╔═══════════════════════════════════════════════╗
-║ Git Token Scanner v1.0.0 ║
-║ Find, replace & clean tokens in git repos ║
-╚═══════════════════════════════════════════════╝
-
-? What would you like to do?
+What would you like to do?
 
 > Scan — Find all repos with exposed tokens
 
