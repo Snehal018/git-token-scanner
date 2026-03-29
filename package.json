@@ -10,7 +10,7 @@
     "node": ">=18"
   },
   "scripts": {
-    "start": "node bin/git-token-scanner.js"
+    "start": "node api.js && node bin/git-token-scanner.js"
   },
   "keywords": [
     "git",
